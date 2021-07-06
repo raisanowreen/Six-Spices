@@ -43,3 +43,32 @@ p{
     text-align: center;
     padding: 0% 35%;
 }
+.box-model{
+    width: 250px;
+    padding: 10px;
+    border: 5px gray;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px 5px gray;
+    margin: 10%;
+}
+.box-model img{
+    width: 250px;
+}
+.display-three{
+    display: flex;
+}
+.share-width-one{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 0%;
+}
+.share-width-two{
+    width: 50%;
+    padding-left: 0;
+    padding-right: 0%;  
+}
+.share-width-three{
+    width: 50%;
+    padding-left: 0;
+    padding-right: 10%;
+}
