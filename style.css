@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 .orange-color{
     color: orange;
@@ -14,7 +15,7 @@ body{
 }
 .half-width{
     width: 50%;
-    padding-top: 5%;
+    padding-top: 10%;
     padding-left: 10%;
     padding-right: 10%;
 }
@@ -31,5 +32,10 @@ body{
 }
 p{
     font-size: 12px;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
+}
+.display-two{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
 }
