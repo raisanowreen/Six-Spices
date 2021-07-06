@@ -13,27 +13,28 @@ body{
     color: black;
     font-weight: 5px;
 }
-.half-width{
+.half-space{
     width: 50%;
-    padding-top: 10%;
-    padding-left: 10%;
-    padding-right: 0px;
-}
-.half-width-new{
-    width: 50%;
-    padding-left: 0px;
     padding-right: 10%;
 }
 .half-space-new{
     width: 50%;
-    padding-left: 10%;
-    padding-right: 0px;
-}
-.half-space{
-    width: 50%;
-    padding-top: 10%;
-    padding-left: 0px;
+    padding-left: 200px;
     padding-right: 10%;
+    padding-top: 120px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 200px;
+    padding-top: 120px;
+}
+.half-width-new{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width-new img{
+    width: 100%;
 }
 .display-one{
     display: flex;
