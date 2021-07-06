@@ -17,15 +17,23 @@ body{
     width: 50%;
     padding-top: 10%;
     padding-left: 10%;
-    padding-right: 10%;
+    padding-right: 0px;
 }
 .half-width-new{
     width: 50%;
-    padding-left: 0;
+    padding-left: 0px;
     padding-right: 10%;
 }
-.half-width img{
-    width: 100%;
+.half-space-new{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 0px;
+}
+.half-space{
+    width: 50%;
+    padding-top: 10%;
+    padding-left: 0px;
+    padding-right: 10%;
 }
 .display-one{
     display: flex;
@@ -71,4 +79,37 @@ p{
     width: 50%;
     padding-left: 0;
     padding-right: 10%;
+}
+.display-four{
+    display: flex;
+}
+.box-model-one{
+    border: 5px gray;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px 5px gray;
+    margin: 10%;
+}
+.share-space-one{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 5%;
+}
+.share-space-two{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.share-space-three{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+.display-five{
+    background-image: url(images/bg\ six.png);
+}
+.display-five p{
+    color: blanchedalmond;
+}
+.grey-color{
+    color:white;
 }
