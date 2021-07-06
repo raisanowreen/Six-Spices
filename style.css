@@ -72,9 +72,6 @@ p{
 .box-model img{
     width: 250px;
 }
-.display-three{
-    display: flex;
-}
 .share-width-one{
     width: 50%;
     padding-left: 10%;
@@ -89,9 +86,6 @@ p{
     width: 50%;
     padding-left: 0;
     padding-right: 10%;
-}
-.display-four{
-    display: flex;
 }
 .box-model-one{
     border: 5px gray;
@@ -128,4 +122,9 @@ p{
     width: 10%;
     padding-left: 5%;
     padding-right: 10%;
+}
+.align-two{
+    text-align: center;
+    padding-right: 10%;
+    padding-left: 10%;
 }
