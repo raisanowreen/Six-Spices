@@ -122,3 +122,9 @@ p{
 .grey-color{
     color:white;
 }
+.column{
+    float: left;
+    width: 10%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
